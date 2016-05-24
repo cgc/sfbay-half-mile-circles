@@ -1,0 +1,184 @@
+stop_ids,stop_lat,stop_lon,stop_name
+"['341138', '341139']",37.53296,-122.292705,El Camino Real & 39th Ave
+"['340057', '340058']",37.594565,-122.383235,El Camino Real & Trousdale Dr
+['343059'],37.49362,-122.24446,El Camino Real & Eaton Ave
+"['344019', '344655']",37.485925,-122.2075,Broadway & Douglas Ave
+"['344035', '344465']",37.479155,-122.19214500000001,Bay Rd & Haven Ave
+"['334080', '334081', '334103']",37.64579333333333,-122.42776333333332,El Camino Real & Country Club Dr
+['344637'],37.485708,-122.232057,Redwood City Caltrain-Lane C
+"['335082', '336040']",37.611715000000004,-122.40170499999999,El Camino Real & Taylor Ave
+['315616'],37.46729,-122.4295,235 Main St-HMB Visitor Ctr
+"['363005', '363006', '363080']",37.47159333333334,-122.13983999999999,Bay Rd & University Ave
+"['341186', '341187']",37.539445,-122.29388499999999,E Hillsdale Blvd & Curtiss St
+"['335160', '335161']",37.629365,-122.41517999999999,San Bruno Ave W & Green Ave
+"['340037', '340038']",37.58406,-122.365985,El Camino Real & Broadway-Burlingame
+"['343055', '343056']",37.497485,-122.24877000000001,El Camino Real & Belmont Ave
+['311124'],37.64188,-122.490763,903 Oceana Blvd-Good Shepherd School
+['344502'],37.48605,-122.18982,Haven Ave & E Bayshore Rd
+['311049'],37.62854,-122.48978,Francisco Blvd & Lakeside Ave
+"['334090', '334091']",37.65018,-122.430525,El Camino Real & W Orange Ave
+['340053'],37.59073,-122.37771,El Camino Real & Ray Dr
+['332107'],37.66763,-122.46886,332 Gellert Blvd
+['311112'],37.62173,-122.4843,Lundy Way & Ridgeway Dr
+['344090'],37.47774,-122.223886,El Camino Real & Oak Ave
+"['342040', '342041', '342047', '342048']",37.526375,-122.2837375,Davey Glen Rd & El Camino Real
+['341058'],37.539479,-122.313481,Alameda de las Pulgas & Parkside Way
+['311145'],37.65395,-122.49095,95 Palmetto Ave
+['341196'],37.54122,-122.29151,E Hillsdale Blvd & Saratoga Dr
+['344441'],37.48773,-122.2268,Marshall St & Main St
+"['347016', '347017']",37.444275000000005,-122.16832500000001,El Camino Real & Quarry Rd-Stanford Shopping Ctr
+"['344030', '344497']",37.481495,-122.198,Bay Rd & 5th Ave
+"['311605', '311609']",37.63913,-122.49239,Palmetto Ave & Shell St
+"['311087', '311088', '311163']",37.62063666666666,-122.48519666666668,Hwy 1 & Westport Dr
+"['346047', '346048']",37.45433,-122.18449000000001,El Camino Real & Oak Grove Ave-Menlo Park Caltrain
+['341134'],37.5386,-122.29967,El Camino Real & 31st Ave-Hillsdale Shopping Ctr
+"['343063', '343064']",37.507355000000004,-122.26034999999999,El Camino Real & San Carlos Ave
+['344641'],37.48493,-122.23372,El Camino Real & James Ave
+"['336031', '336032']",37.605905,-122.39674,El Camino Real & Meadow Glen Ave
+"['340041', '340042']",37.586085,-122.36954,El Camino Real & Easton Dr
+"['344117', '344118']",37.478629999999995,-122.18787,Florence St & 17th Ave
+"['341152', '341153']",37.5370405,-122.29755,El Camino Real & Hillsdale Blvd
+['341160'],37.57336,-122.34088,El Camino Real & Warren Rd
+['315901'],37.49558,-122.36868,Hwy 92 & Hwy 35-Skyline Blvd
+['344501'],37.48609,-122.19167,3401 E Bayshore Rd
+['311085'],37.60831,-122.49624,Hwy 1 & Rockaway Beach Ave
+"['333004', '333005']",37.680004999999994,-122.46171,El Camino Real & Colma Blvd
+['340054'],37.59121,-122.37821,El Camino Real & Rosedale Ave
+['344513'],37.48673,-122.19681,3015 E Bayshore Rd
+['311199'],37.62058,-122.48458,Westport Dr & Lundy Way
+['344091'],37.47068,-122.21404,El Camino Real & Oakwood Dr
+['315031'],37.48028,-122.40663,12340 Hwy 92-La Nebbia Winery
+['336029'],37.60221,-122.39136,El Camino Real & Hillcrest Blvd
+['341125'],37.5487,-122.31008,El Camino Real & E 20th Ave
+"['335154', '335155']",37.630859,-122.4093705,San Bruno Ave E & 3rd Ave
+['315039'],37.46245,-122.42932,Main St & Miramontes St
+['335637'],37.615028,-122.389279,SFO Airport Terminal A-Lower Level
+"['341147', '341148']",37.55937,-122.321995,El Camino Real & 9th Ave
+"['331534', '331542']",37.75572,-122.4066,Potrero Ave & 22nd St
+"['343058', '343608']",37.50074,-122.252475,El Camino Real & Brittan Ave
+"['344434', '344486']",37.487102,-122.2152925,Broadway & Woodside Rd
+['341158'],37.57346,-122.34076,El Camino Real & State St
+"['336027', '336028']",37.60779,-122.398945,El Camino Real & Center St-Millbrae
+['311043'],37.59598,-122.49868,De Solo Dr & Anza Dr
+['332134'],37.6648,-122.47549,Hickey Blvd & Campus Dr
+['341624'],37.539021,-122.309448,28th Ave & Juniper St
+"['341178', '341190', '341191']",37.53371333333334,-122.30447333333332,Hacienda St & W Hillsdale Blvd
+"['344601', '344606']",37.4834905,-122.2046065,Bay Rd & Warrington Ave
+['344500'],37.48725,-122.20114,2053 E Bayshore Rd
+"['331535', '331543']",37.761745000000005,-122.407205,Potrero Ave & 18th St
+"['346040', '346041']",37.44825,-122.17381499999999,El Camino Real & Cambridge Ave
+['311119'],37.63047,-122.48897,Oceana Blvd & Brighton Rd
+['341154'],37.55583,-122.31824,El Camino Real & Hobart Ave
+"['343053', '343054']",37.503299999999996,-122.25551,El Camino Real & Arroyo Ave-San Carlos
+"['344079', '344080', '344475']",37.490806666666664,-122.24090666666666,El Camino Real & Whipple Ave
+['315900'],37.496094,-122.368101,Hwy 92  & Skyline Blvd
+"['340044', '340045']",37.587535,-122.371945,El Camino Real & Hillside Dr
+['311158'],37.64599,-122.49202,Palmetto Ave & Hwy 1 Onramp-SF RV Resort
+"['344420', '344440']",37.489019,-122.218749,Veterans Blvd & Hansen Way
+"['311152', '311153']",37.63274,-122.49242000000001,Palmetto Ave & Montecito Ave
+['341142'],37.52938,-122.28778,El Camino Real & 43rd Ave
+"['331019', '331067']",37.787890000000004,-122.400005,Mission St & 2nd St
+['315027'],37.47585,-122.41792,Hwy 92 & Marsh Farms
+['341140'],37.53109,-122.29033,El Camino Real & 41st Ave
+['311013'],37.62169,-122.48582,Bradford Way & Fairway Dr
+"['341126', '341127']",37.544365,-122.305525,El Camino Real & E 25th Ave
+['345400'],37.46676,-122.20873,El Camino Real & 5th Ave
+"['344084', '344085']",37.48294,-122.2308,El Camino Real & Jefferson Ave
+['341143'],37.56192,-122.32497,El Camino Real & 4th Ave
+['344503'],37.48648,-122.18766,3555 Haven Ave
+['344072'],37.48579,-122.23467,El Camino Real & Broadway-Redwood City
+"['335073', '335074']",37.628685,-122.41651,El Camino Real & San Bruno Ave
+"['341128', '341129']",37.542425,-122.30352500000001,El Camino Real & 27th Ave
+['333509'],37.68449,-122.46536,Colma BART-Bay 9
+"['336038', '336039']",37.603965,-122.394145,El Camino Real & Silva Ave
+"['332060', '332061', '332132']",37.66549,-122.47465999999999,Callan Blvd & Hickey Blvd
+['341159'],37.5674,-122.33054,El Camino Real & Tilton Ave
+"['333010', '333011']",37.676275000000004,-122.45789500000001,El Camino Real & Serramonte Blvd
+"['311150', '311151']",37.64943,-122.491105,Palmetto Ave & Manor Dr
+['333015'],37.682535,-122.470576,Junipero Serra Blvd & Colma Park N Ride
+"['334082', '334083']",37.666105,-122.45100500000001,El Camino Real & Hickey Blvd
+"['344042', '344043', '344069', '344070']",37.48734949999999,-122.235669,Brewster Ave & El Camino Real
+['335620'],37.615799,-122.390385,SFO Airport Terminal G-Lower Level
+['344086'],37.47952,-122.22629,El Camino Real & Lincoln Ave
+['341628'],37.541505,-122.303019,28th Ave & S El Camino Real
+['344419'],37.48944,-122.22323,Veterans Blvd & Walnut St
+"['311040', '311041', '311606']",37.59841666666667,-122.49833333333333,Crespi Dr & Roberts Rd
+"['341136', '341137']",37.534465,-122.29463000000001,El Camino Real & 37th Ave
+"['341123', '341149']",37.552275,-122.314175,El Camino Real & 17th Ave
+['341059'],37.53957,-122.313244,Alameda de las Pulgas & Portola Dr
+['315029'],37.46909,-122.42633,250 Hwy 92-Hilltop Mobile Home Park
+['344418'],37.48797,-122.22818,Jefferson Ave & Marshall St
+"['340050', '340051']",37.578599999999994,-122.356195,El Camino Real & Oak Grove Ave-Burlingame
+['345023'],37.46107,-122.19834,El Camino Real & Winchester Dr
+['332019'],37.70612,-122.46874,Daly City BART-Bay 3
+"['341179', '341180']",37.570855,-122.313985,Hwy 101 & 3rd Ave
+['341124'],37.54884,-122.31067,El Camino Real & 20th Ave
+"['345012', '345013']",37.46421,-122.20437,El Camino Real & Almendral Ave
+['341145'],37.56195,-122.32461,El Camino Real & E 5th Ave
+"['346045', '346046']",37.45088,-122.17784,El Camino Real & Middle Ave
+"['334074', '334075']",37.6703,-122.4531,El Camino Real & Arlington Dr
+['344499'],37.48772,-122.20492,1933 E Bayshore Rd
+['344028'],37.47985,-122.19419,Bay Rd & 10th Ave
+"['335062', '335063']",37.625535,-122.414455,El Camino Real & Angus Ave W
+['341621'],37.531804,-122.300636,225 37th Ave-San Mateo Medical Center
+"['344031', '344032']",37.480575,-122.195855,Bay Rd & 8th Ave
+"['335099', '335401', '335635', '335636']",37.63956974999999,-122.419045,Huntington Ave & Sneath Ln
+['344504'],37.48558,-122.18352,3639 Haven Ave
+"['340035', '340036', '341161']",37.57503666666667,-122.34765333333333,El Camino Real & Bellevue Ave
+"['315034', '315605']",37.455505,-122.42991,Main St & Grove St
+['341151'],37.56702,-122.33021,El Camino Real & El Cerrito Ave
+"['341156', '341157']",37.56993,-122.335375,El Camino Real & Poplar Ave
+['311157'],37.66052,-122.48948,Palmetto Ave & Paradise Dr
+"['332170', '332171', '332227']",37.70512333333334,-122.46258666666667,John Daly Blvd & Mission St
+['344498'],37.49049,-122.21122,1725 E Bayshore Rd
+['341543'],37.53516,-122.29981,W Hillsdale Blvd & Edison St-Bay 8
+"['336627', '336628']",37.6005765,-122.3897115,El Camino Real & Victoria Ave
+['335503'],37.616762,-122.384261,SFO Airport Terminal 2-Lower Level
+"['342049', '342050']",37.517305,-122.27222,El Camino Real & Harbor Blvd
+['311078'],37.608746,-122.495026,Hwy 1 & Fassler Ave
+['340052'],37.58031,-122.35914,El Camino Real & Palm Dr
+"['331419', '331420']",37.78241,-122.40688499999999,Mission St & 5th St
+['341627'],37.542463,-122.304127,27th Ave & S El Camino Real
+['332114'],37.66761,-122.46857,Gellert Blvd & Serramonte Blvd
+"['336036', '340049']",37.596684999999994,-122.385795,El Camino Real & Murchison Dr
+['315030'],37.48023,-122.40592,12341 Hwy 92-La Nebbia Winery
+"['341176', '341177']",37.53214,-122.303445,Hacienda St & 36th Ave
+"['340043', '340055']",37.581860000000006,-122.362115,El Camino Real & Sanchez Ave
+"['340032', '340033']",37.589335000000005,-122.375035,El Camino Real & Adeline Dr
+['343061'],37.51133,-122.2658,El Camino Real & Hull Dr
+['344439'],37.48968,-122.22285,Veterans Blvd & Maple St
+['341121'],37.5563,-122.31837,El Camino Real & 12th Ave
+['316603'],37.46005,-122.42984,741 Main St-Ides Hall
+"['335075', '335076']",37.617779999999996,-122.40883,El Camino Real & San Felipe Ave
+"['342052', '342053', '342097', '342098']",37.520185,-122.27639250000001,El Camino Real & Ralston Ave
+"['344082', '344083']",37.489005,-122.238115,El Camino Real & Hopkins Ave
+['315028'],37.4691,-122.4258,251 Hwy 92-Hilltop Mobile Home Park
+['341135'],37.54013,-122.3009,El Camino Real & 31st Ave
+"['311160', '311161']",37.635329999999996,-122.49207000000001,Palmetto Ave & Santa Maria Ave
+['315024'],37.47817,-122.41409,Hwy 92 & Berta's Fruit Farm
+['344636'],37.48582,-122.232053,Redwood City Caltrain-Lane B
+"['363003', '363004']",37.471109999999996,-122.144175,Bay Rd & Palo Verde Ave
+"['340046', '340047']",37.575810000000004,-122.34777500000001,El Camino Real & Howard Ave
+"['335070', '335071', '335108', '335612']",37.62300925,-122.412316,El Camino Real & Jenevein Ave
+"['333006', '333007']",37.67376,-122.45492,El Camino Real & Old Mission Rd
+"['342044', '342045']",37.51411,-122.26856000000001,El Camino Real & 5th Ave-Belmont
+['345016'],37.45992,-122.19601,El Camino Real & Isabella Ave
+['311147'],37.63049,-122.49248,Palmetto Ave & Brighton Rd
+"['340039', '340040']",37.576359999999994,-122.349915,El Camino Real & Burlingame Ave
+"['335079', '335080']",37.63711000000001,-122.42149,El Camino Real & Sneath Ln
+"['341130', '341132']",37.563959999999994,-122.32695000000001,El Camino Real & 2nd Ave
+['344505'],37.48647,-122.1814,3719 Haven Ave
+['315036'],37.46015,-122.42968,735 Main St-Ides Hall
+['341040'],37.542353,-122.316487,Alameda de las Pulgas & 24th Ave
+['332406'],37.70607,-122.4615,San Jose Ave & Bepler St
+['336035'],37.61031,-122.40119,El Camino Real & Millwood Dr
+['336034'],37.59955,-122.38822,El Camino Real & Linden Ave
+"['334076', '334077']",37.65672,-122.43656,El Camino & Arroyo Dr
+['341150'],37.57159,-122.33808,El Camino Real & Grand Blvd
+['335162'],37.616627,-122.388191,SFO Airport Terminal 3-Lower Level
+['340034'],37.58006,-122.35897,El Camino Real & Arc Way
+['333511'],37.6848,-122.4658,Colma BART-Bay 11
+['335631'],37.638953,-122.416925,San Bruno BART-Bay 8 Outer Busway
+['341052'],37.542253,-122.316757,Alameda de las Pulgas & Alta Ave
+['335078'],37.6138,-122.40465,El Camino Real & Santa Inez Ave
+"['344607', '344648']",37.48255,-122.20106999999999,Bay Rd & 2nd Ave
