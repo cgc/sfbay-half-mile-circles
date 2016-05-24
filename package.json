@@ -1,0 +1,23 @@
+{
+  "name": "sf-half-mile-circles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify -t brfs -t cssify index.js -d -o dist.js -v --standalone MAP",
+    "dev": "watchify -t brfs -t cssify index.js -d -o dist.js -v --standalone MAP",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "brfs": "^1.4.3",
+    "browserify": "^13.0.1",
+    "cssify": "^1.0.2",
+    "watchify": "^3.7.0"
+  },
+  "dependencies": {
+    "csv-parser": "^1.9.3",
+    "openlayers": "^3.16.0"
+  }
+}

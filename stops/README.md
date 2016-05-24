@@ -1,0 +1,5 @@
+- SFMTA: https://www.sfmta.com/about-sfmta/reports/gtfs-transit-data
+- BART: http://www.bart.gov/schedules/developers/gtfs
+- AC Transit: http://www.actransit.org/planning-focus/data-resource-center/
+- Caltrain: http://www.caltrain.com/developer.html
+- VTA: http://www.vta.org/getting-around/gtfs-info/data-file

@@ -1,0 +1,42 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>SF half mile circles</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="node_modules/openlayers/dist/ol.css" rel="stylesheet" type="text/css">
+  <style>
+  #map {
+    margin-top: 10px;
+    height: 80vh;
+  }
+  </style>
+</head>
+<body>
+  <p>
+    I've been really interested in the CA governor's proposal to
+    <a href="http://www.lao.ca.gov/Publications/Report/3470">Streamline Local Housing Approvals</a>.
+    The proposal stipulates that:
+  </p>
+  <p>
+    <em>
+      A project must set 20 percent of its housing units at prices affordable to
+      low-income households for at least 30 years. These requirements would be lower
+      for projects within one-half mile of an existing or planned transit stop. In
+      these cases, developers would need to set aside either (1) 10 percent of the
+      housing for low-income households or (2) 5 percent for very-low-income households.
+    </em>
+  </p>
+
+  <p>
+    So, what is "within one-half mile of an existing or planned transit stop"? The
+    map below has a half-mile circle for every transit stop for BART, AC Transit,
+    Caltrain, SFMTA, and VTA.
+  </p>
+
+  <div id="map" class="map"></div>
+  <script src="dist.js"></script>
+</body>
+</html>
