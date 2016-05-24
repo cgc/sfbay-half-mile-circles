@@ -10,7 +10,10 @@
     "test": "npm run build"
   },
   "browserify": {
-    "transform": [ "brfs", "cssify" ]
+    "transform": [
+      "brfs",
+      "cssify"
+    ]
   },
   "author": "",
   "license": "ISC",
@@ -21,6 +24,7 @@
     "watchify": "^3.7.0"
   },
   "dependencies": {
+    "color": "^0.11.1",
     "csv-parser": "^1.9.3",
     "openlayers": "^3.16.0"
   }

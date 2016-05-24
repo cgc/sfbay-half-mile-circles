@@ -3,6 +3,7 @@ var fs = require('fs');
 var fastCsv = require('fast-csv');
 var csvParser = require('csv-parser');
 var stream = require('stream');
+var Color = require('color');
 
 var sfExtent = [-122.384591, 37.703211, -122.510850, 37.808675];
 var sf = ol.extent.getCenter(sfExtent);
@@ -21,11 +22,11 @@ function stringStream(string) {
 function makeLayer(csvStream, color) {
   var style = new ol.style.Style({
     stroke: new ol.style.Stroke({
-      color: color,
+      color: Color(color).alpha(0.8).rgbString(),
       width: 1
     }),
     fill: new ol.style.Fill({
-      color: color,
+      color: Color(color).alpha(0.4).rgbString(),
     })
   });
 
