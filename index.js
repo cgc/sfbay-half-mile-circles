@@ -55,12 +55,12 @@ var raster = new ol.layer.Tile({
   })
 });
 
-var sfmta = stringStream(fs.readFileSync('stops/sfmta.txt').toString());;
-var actransit = stringStream(fs.readFileSync('stops/actransit.txt').toString());;
-var bart = stringStream(fs.readFileSync('stops/bart.txt').toString());;
-var caltrain = stringStream(fs.readFileSync('stops/caltrain.txt').toString());;
-var vta = stringStream(fs.readFileSync('stops/vta.txt').toString());;
-var samtrans = stringStream(fs.readFileSync('stops/samtrans.txt').toString());;
+var sfmta = stringStream(fs.readFileSync('major_transit_stops/sfmta.txt').toString());;
+var actransit = stringStream(fs.readFileSync('major_transit_stops/actransit.txt').toString());;
+var bart = stringStream(fs.readFileSync('major_transit_stops/bart.txt').toString());;
+var caltrain = stringStream(fs.readFileSync('major_transit_stops/caltrain.txt').toString());;
+var vta = stringStream(fs.readFileSync('major_transit_stops/vta.txt').toString());;
+var samtrans = stringStream(fs.readFileSync('major_transit_stops/samtrans.txt').toString());;
 
 var map = new ol.Map({
   layers: [

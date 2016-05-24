@@ -1,0 +1,46 @@
+stop_ids,stop_lat,stop_lon,stop_name
+['SHAY'],37.63479954,-122.0575506,South Hayward
+['CONC'],37.973737,-122.029095,Concord
+['LAFY'],37.893394,-122.123801,Lafayette
+['24TH'],37.752254,-122.418466,24th St. Mission
+['MONT'],37.789256,-122.401407,Montgomery St.
+['WDUB'],37.699759,-121.928099,West Dublin/Pleasanton
+['RICH'],37.936887,-122.353165,Richmond
+['PITT'],38.018914,-121.945154,Pittsburg/Bay Point
+['FRMT'],37.557355,-121.9764,Fremont
+['BALB'],37.72198087,-122.4474142,Balboa Park
+['COLS'],37.754006,-122.197273,Coliseum
+['DBRK'],37.869867,-122.268045,Downtown Berkeley
+['DELN'],37.925655,-122.317269,El Cerrito del Norte
+['CIVC'],37.779528,-122.413756,Civic Center/UN Plaza
+['DALY'],37.70612055,-122.4690807,Daly City
+['WOAK'],37.80467476,-122.2945822,West Oakland
+['SSAN'],37.664174,-122.444116,South San Francisco
+['COLM'],37.684638,-122.466233,Colma
+['PLZA'],37.9030588,-122.2992715,El Cerrito Plaza
+['PHIL'],37.928403,-122.056013,Pleasant Hill/Contra Costa Centre
+['12TH'],37.803664,-122.271604,12th St. Oakland City Center
+['ORIN'],37.87836087,-122.1837911,Orinda
+['GLEN'],37.732921,-122.434092,Glen Park
+['NCON'],38.003275,-122.024597,North Concord/Martinez
+"['19TH', '19TH_N']",37.80787,-122.269029,19th St. Oakland
+['ROCK'],37.844601,-122.251793,Rockridge
+['DUBL'],37.701695,-121.900367,Dublin/Pleasanton
+['SBRN'],37.637753,-122.416038,San Bruno
+['OAKL'],37.71297174,-122.21244024,Oakland Int'l Airport
+['UCTY'],37.591208,-122.017867,Union City
+['ASHB'],37.853024,-122.26978,Ashby
+['POWL'],37.784991,-122.406857,Powell St.
+['WCRK'],37.905628,-122.067423,Walnut Creek
+['MLBR'],37.599787,-122.38666,Millbrae
+['BAYF'],37.697185,-122.126871,Bay Fair
+['16TH'],37.765062,-122.419694,16th St. Mission
+['CAST'],37.690754,-122.075567,Castro Valley
+['EMBR'],37.792976,-122.396742,Embarcadero
+"['MCAR', 'MCAR_S']",37.828415,-122.267227,MacArthur
+['NBRK'],37.87404,-122.283451,North Berkeley
+['SFIA'],37.616035,-122.392612,San Francisco Int'l Airport
+['LAKE'],37.797484,-122.265609,Lake Merritt
+['HAYW'],37.670399,-122.087967,Hayward
+['SANL'],37.72261921,-122.1613112,San Leandro
+['FTVL'],37.774963,-122.224274,Fruitvale
