@@ -60,15 +60,17 @@ var actransit = stringStream(fs.readFileSync('stops/actransit.txt').toString());
 var bart = stringStream(fs.readFileSync('stops/bart.txt').toString());;
 var caltrain = stringStream(fs.readFileSync('stops/caltrain.txt').toString());;
 var vta = stringStream(fs.readFileSync('stops/vta.txt').toString());;
+var samtrans = stringStream(fs.readFileSync('stops/samtrans.txt').toString());;
 
 var map = new ol.Map({
   layers: [
     raster,
-    makeLayer(sfmta, 'red'),
-    makeLayer(actransit, 'green'),
-    makeLayer(vta, 'blue'),
-    makeLayer(bart, 'blue'),
-    makeLayer(caltrain, 'red'),
+    makeLayer(sfmta, '#CA2163'),
+    makeLayer(actransit, '#06674B'),
+    makeLayer(samtrans, '#00529B'),
+    makeLayer(vta, '#005882'),
+    makeLayer(bart, '#00ADEF'),
+    makeLayer(caltrain, '#E03A3E'),
   ],
   renderer: 'canvas',
   target: 'map',
