@@ -1,12 +1,16 @@
 {
-  "name": "sf-half-mile-circles",
+  "name": "sfbay-half-mile-circles",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "browserify -t brfs -t cssify index.js -d -o dist.js -v --standalone MAP",
-    "dev": "watchify -t brfs -t cssify index.js -d -o dist.js -v --standalone MAP",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "browserify index.js -d -o dist.js -v --standalone MAP",
+    "dev": "watchify index.js -d -o dist.js -v --standalone MAP",
+    "deploy": "git fetch && git checkout gh-pages && git reset --hard origin/master && npm run build && git commit -am 'deploy' && git push origin gh-pages -f",
+    "test": "npm run build"
+  },
+  "browserify": {
+    "transform": [ "brfs", "cssify" ]
   },
   "author": "",
   "license": "ISC",
